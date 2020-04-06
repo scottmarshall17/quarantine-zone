@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+This site is here to document some projects
 
-email: agus[at]python.web.id
+email: scottjmar[at]gmail.com
