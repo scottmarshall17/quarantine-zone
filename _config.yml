@@ -22,8 +22,8 @@ urls:
     - text: My Projects
       url: /projects/
 
-url: "https://smarshall17.github.io"
-baseurl: "/quarantinezone"
+url: "smarshall17.github.io"
+baseurl: "/quarantine-zone"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
